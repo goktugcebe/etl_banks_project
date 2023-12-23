@@ -1,0 +1,7 @@
+2023-Dec-23-16-38-26 Message: Preliminaries complete. Initiating ETL process
+2023-Dec-23-16-38-27 Message: Data extraction complete. Initiating Transformation process
+2023-Dec-23-16-38-27 Message: Data transformation complete. Initiating Loading process
+2023-Dec-23-16-38-27 Message: Data saved to CSV file
+2023-Dec-23-16-38-27 Message: Data loaded to Database as a table, Executing queries
+2023-Dec-23-16-38-27 Message: Process Complete
+2023-Dec-23-16-38-27 Message: Server Connection closed
